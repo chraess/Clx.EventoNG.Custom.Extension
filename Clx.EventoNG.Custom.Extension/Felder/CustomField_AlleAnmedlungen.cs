@@ -22,7 +22,7 @@ namespace Clx.EventoNG.Custom.Extension.Felder
 
         public override string Caption
         {
-            get { return "Alle Anmeldungen"; }
+            get { return "Alle Anmeldungen45"; }
         }
 
         public override string Category
