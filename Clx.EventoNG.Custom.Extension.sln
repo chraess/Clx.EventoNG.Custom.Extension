@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clx.EventoNG.Custom.Extension", "Clx.EventoNG.Custom.Extension\Clx.EventoNG.Custom.Extension.csproj", "{7345F3D1-14B6-4A62-B036-CE70EF126B6A}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "EventoNG", "C:\EventoNG_SDK\_Application\EventoNG.exe", "{694F8689-4C11-4B54-8736-58C6BF09716F}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\EventoNG_SDK\_Application\EventoNG.exe
+		RemoteMachine = N0002602
+		StartingDirectory = C:\EventoNG_SDK\_Application
+		Arguments = -nooffice -m 1 -wait 10
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Publish_To_Productive_System|Any CPU = Publish_To_Productive_System|Any CPU
+		Publish_To_Productive_System|Mixed Platforms = Publish_To_Productive_System|Mixed Platforms
+		Publish_To_Productive_System|x86 = Publish_To_Productive_System|x86
+		Publish_To_Test_System|Any CPU = Publish_To_Test_System|Any CPU
+		Publish_To_Test_System|Mixed Platforms = Publish_To_Test_System|Mixed Platforms
+		Publish_To_Test_System|x86 = Publish_To_Test_System|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Run_On_Test_System|Any CPU = Run_On_Test_System|Any CPU
+		Run_On_Test_System|Mixed Platforms = Run_On_Test_System|Mixed Platforms
+		Run_On_Test_System|x86 = Run_On_Test_System|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Productive_System|Any CPU.ActiveCfg = Publish_To_Productive_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Productive_System|Any CPU.Build.0 = Publish_To_Productive_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Productive_System|Mixed Platforms.ActiveCfg = Publish_To_Productive_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Productive_System|Mixed Platforms.Build.0 = Publish_To_Productive_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Productive_System|x86.ActiveCfg = Publish_To_Productive_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Test_System|Any CPU.ActiveCfg = Publish_To_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Test_System|Any CPU.Build.0 = Publish_To_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Test_System|Mixed Platforms.ActiveCfg = Publish_To_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Test_System|Mixed Platforms.Build.0 = Publish_To_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Publish_To_Test_System|x86.ActiveCfg = Publish_To_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Release|x86.ActiveCfg = Release|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Run_On_Test_System|Any CPU.ActiveCfg = Run_On_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Run_On_Test_System|Any CPU.Build.0 = Run_On_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Run_On_Test_System|Mixed Platforms.ActiveCfg = Run_On_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Run_On_Test_System|Mixed Platforms.Build.0 = Run_On_Test_System|Any CPU
+		{7345F3D1-14B6-4A62-B036-CE70EF126B6A}.Run_On_Test_System|x86.ActiveCfg = Run_On_Test_System|Any CPU
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Debug|x86.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Publish_To_Productive_System|Any CPU.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Publish_To_Productive_System|Mixed Platforms.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Publish_To_Productive_System|x86.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Publish_To_Test_System|Any CPU.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Publish_To_Test_System|Mixed Platforms.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Publish_To_Test_System|x86.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Release|Any CPU.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Release|Mixed Platforms.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Release|x86.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Run_On_Test_System|Any CPU.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Run_On_Test_System|Mixed Platforms.ActiveCfg = Debug|x86
+		{694F8689-4C11-4B54-8736-58C6BF09716F}.Run_On_Test_System|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
