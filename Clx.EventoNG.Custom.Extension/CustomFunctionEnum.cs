@@ -30,6 +30,7 @@ namespace Clx.EventoNG.Custom.Extension
         StudiereneMitMehrAlsXAnmeldungen    = 100003,
         CustomField_AusgeführteWBFunktion   = 100004,
         CustomField_Dummy_Test_GitHub_RCH   = 999999,
+        CustomField_Dummy_Test_GitHub_RCh1   = 888888,
 
     }
 }
